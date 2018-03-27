@@ -5,6 +5,11 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 
+THis is master branch!
+=======
+Creating a new branch is quick.
 
+This is a feature1 branch!
 
 THis is master branch!
+
